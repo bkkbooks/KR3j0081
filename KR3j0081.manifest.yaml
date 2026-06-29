@@ -1,0 +1,176 @@
+canonical_identifier: bkk:krp/KR3j0081/v1
+canonical_location: https://kanripo.org/bkk/KR3j0081/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 風俗通義
+  identifiers:
+    krp: KR3j0081
+  tags:
+    tls-dates: dat05000
+    kr-categories: KR3j
+    tls-internal: swl
+  source:
+    repository: tls-texts
+    path: data/tls/KR3j0081.xml
+  edition:
+    short: bkk
+editions:
+- short: SBCK
+  label: 【四部叢刊】
+- short: WYG
+  label: 【四庫全書・文淵閣】
+- short: krp
+assets:
+  parts:
+  - {seq: 1, filename: KR3j0081_001.yaml, hash: 'sha256:024736a8f702d33073965296243435f8e42c10e53332f46a69b8c21b6288d3ee'}
+  - {seq: 2, filename: KR3j0081_002.yaml, hash: 'sha256:35ecd5d85bf1a475213ca5fc0561375474d094ea8813328a093d63c9e15bdc4f'}
+  - {seq: 3, filename: KR3j0081_003.yaml, hash: 'sha256:d0ef59572e43b03426b5dca3aac0217fb6c8af47558afc69ead82098346754cc'}
+  - {seq: 4, filename: KR3j0081_004.yaml, hash: 'sha256:f365a737f6f296b57ba0be95f60a692142b2b1dc22ee20e4b52be704bf2db96a'}
+  - {seq: 5, filename: KR3j0081_005.yaml, hash: 'sha256:d612c9a0a7c42fc64a5b3a69a737981e248d362346baa48ec616f98bea65e690'}
+  - {seq: 6, filename: KR3j0081_006.yaml, hash: 'sha256:76214e8a7358c6b5685e28f7c48cf0f06166852cfa395fb8268e691fead48679'}
+  - {seq: 7, filename: KR3j0081_007.yaml, hash: 'sha256:f0fe4f389945ccb5a0b788de6b27a26039602ab006fbfc0d9e583ada18203e76'}
+  - {seq: 8, filename: KR3j0081_008.yaml, hash: 'sha256:20cdb21cf0bb96d21c9205c7f1f2f1c6fc47483288ac30eef8727567b0050090'}
+  - {seq: 9, filename: KR3j0081_009.yaml, hash: 'sha256:bb34f462cf143b5833b64c494aa14274e5289ddcd7b63dd5c19161abb8216803'}
+  - {seq: 10, filename: KR3j0081_010.yaml, hash: 'sha256:0abbe17d44e974f0df0cb39e094b9fba564dd9af27e055bd41c3ac8724475032'}
+  - {seq: 11, filename: KR3j0081_011.yaml, hash: 'sha256:481426303c617ddb5996a021c5611ace6d08cf05acfe41054e9a411dc63a708f'}
+  - {seq: 12, filename: KR3j0081_012.yaml, hash: 'sha256:69c0d55814b2a587cf4cb09907623a0ea51b2ad94e77bed5fd4030602423cd23'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3j0081_001.markers.yaml, hash: 'sha256:39f90ca1b6830880fff9f139c1e39f96de45c1019aa69a6f1659b6243d9fbe87'}
+  - {seq: 2, role: markers, filename: assets/KR3j0081_002.markers.yaml, hash: 'sha256:c55b18865159ad4982b5c54ef21267f4ec5d602c5172e8c9390925753664cc34'}
+  - {seq: 3, role: markers, filename: assets/KR3j0081_003.markers.yaml, hash: 'sha256:81396ebf0b5569dbabcf47a59d45e2853fefa5715c5a1b753343167de1517291'}
+  - {seq: 4, role: markers, filename: assets/KR3j0081_004.markers.yaml, hash: 'sha256:021dcd7e21b34eafce11ff336172ea3fb2b216d4690ec4f4b60ff8f519c79b95'}
+  - {seq: 5, role: markers, filename: assets/KR3j0081_005.markers.yaml, hash: 'sha256:86b32760e5aab81404f793b866390b4d10d518d6815e39af50e16332cea9ffd0'}
+  - {seq: 6, role: markers, filename: assets/KR3j0081_006.markers.yaml, hash: 'sha256:48fab22742f6c53c1681d5bf96cee92c5e1a4d5b13a6d0fca54913e94adfcceb'}
+  - {seq: 7, role: markers, filename: assets/KR3j0081_007.markers.yaml, hash: 'sha256:0dbd5705bae2ad18e36e197cf7eddf3f1025359c83ed1e0d65c73a55aa4d15aa'}
+  - {seq: 8, role: markers, filename: assets/KR3j0081_008.markers.yaml, hash: 'sha256:55f048bb8b205d21de9d3b03404817b15a867a2275890c51e721449ca026c120'}
+  - {seq: 9, role: markers, filename: assets/KR3j0081_009.markers.yaml, hash: 'sha256:3494a97f5ca5371f4c1fb33a50f714d1ebea975dcc53426feebd50059ad83727'}
+  - {seq: 10, role: markers, filename: assets/KR3j0081_010.markers.yaml, hash: 'sha256:a0e2cfa460fcd2028262e9a72dd9fef555574d4420bde9586ec47451b2e31e33'}
+  - {seq: 11, role: markers, filename: assets/KR3j0081_011.markers.yaml, hash: 'sha256:2586c96b4ed536f076a3d57db12f1eefec75a3599b0d3476ac665cbcb43bdcdd'}
+  - {seq: 12, role: markers, filename: assets/KR3j0081_012.markers.yaml, hash: 'sha256:a3cbb4be8ebd080411c1bbd526b10afe4d6dca67b22f1ec19f752b6d3b9e0883'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3j0081_CHANT_001-1a.1-h
+    span:
+    - front
+    - 0
+    - 603
+  label: 風俗通義序
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3j0081_CHANT_002-1a.1-h
+    span:
+    - body
+    - 0
+    - 3919
+  label: 皇霸第一
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3j0081_CHANT_003-1a.1-h
+    span:
+    - body
+    - 0
+    - 5680
+  label: 正失第二
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3j0081_CHANT_004-1a.1-h
+    span:
+    - body
+    - 0
+    - 2172
+  label: 愆禮第三
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3j0081_CHANT_005-1a.1-h
+    span:
+    - body
+    - 0
+    - 3340
+  label: 過譽第四
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3j0081_CHANT_006-1a.1-h
+    span:
+    - body
+    - 0
+    - 4123
+  label: 十反第五
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3j0081_CHANT_007-1a.1-h
+    span:
+    - body
+    - 0
+    - 2932
+  label: 聲音第六
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3j0081_CHANT_008-1a.1-h
+    span:
+    - body
+    - 0
+    - 3554
+  label: 窮通第七
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3j0081_CHANT_009-1a.1-h
+    span:
+    - body
+    - 0
+    - 2317
+  label: 祀典第八
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR3j0081_CHANT_010-1a.1-h
+    span:
+    - body
+    - 0
+    - 4353
+  label: 怪神第九
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR3j0081_CHANT_011-1a.1-h
+    span:
+    - body
+    - 0
+    - 2004
+  label: 山澤第十
+  type: section
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR3j0081_CHANT_012-1a.1-h
+    span:
+    - body
+    - 0
+    - 23684
+  label: 風俗通義佚文
+  type: section
+  level: 1
+hash: sha256:68b5bbbdde836b08b4bc892c247ae069a286633d7179d2123f04b8793f10472b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
