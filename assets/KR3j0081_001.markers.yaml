@@ -56,7 +56,6 @@ markers:
   - {type: 'tls:seg', offset: 29, content: '', id: KR3j0081_CHANT_001-1a.6}
   - {type: punctuation, offset: 33, content: ，, id: KR3j0081_CHANT_001-bkkpn5}
   - {type: 'tls:seg', offset: 33, content: '', id: KR3j0081_CHANT_001-1a.7}
-  - {type: substitution, offset: 34, original: 偽, replacement: 僞, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4358}}
   - {type: punctuation, offset: 37, content: 。, id: KR3j0081_CHANT_001-bkkpn6}
   - {type: 'tls:seg', offset: 37, content: '', id: KR3j0081_CHANT_001-1a.8}
   - {type: punctuation, offset: 38, content: 《, id: KR3j0081_CHANT_001-bkkpn7}
@@ -106,7 +105,6 @@ markers:
   - {type: variant, offset: 102, length: 19, content: 龍鱗訓註說難轉相陵高積如丘山可謂繁富者, krp: 繼踵毎輙挫䘐亦足以祛蔽啓䝉}
   - {type: punctuation, offset: 104, content: ，, id: KR3j0081_CHANT_001-bkkpn26}
   - {type: 'tls:seg', offset: 104, content: '', id: KR3j0081_CHANT_001-1a.22}
-  - {type: substitution, offset: 105, original: 註, replacement: 注, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0597}}
   - {type: punctuation, offset: 108, content: ，, id: KR3j0081_CHANT_001-bkkpn27}
   - {type: 'tls:seg', offset: 108, content: '', id: KR3j0081_CHANT_001-1a.23}
   - {type: punctuation, offset: 112, content: ，, id: KR3j0081_CHANT_001-bkkpn28}
@@ -122,7 +120,6 @@ markers:
   - {type: variant, offset: 125, length: 17, content: 俗間行語眾所共傳積非習貫莫能原察今, krp: 百}
   - {type: punctuation, offset: 129, content: ，, id: KR3j0081_CHANT_001-bkkpn31}
   - {type: 'tls:seg', offset: 129, content: '', id: KR3j0081_CHANT_001-1a.27}
-  - {type: substitution, offset: 129, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 133, content: ，, id: KR3j0081_CHANT_001-bkkpn32}
   - {type: 'tls:seg', offset: 133, content: '', id: KR3j0081_CHANT_001-1a.28}
   - {type: punctuation, offset: 137, content: ，, id: KR3j0081_CHANT_001-bkkpn33}
@@ -173,7 +170,6 @@ markers:
   - {type: punctuation, offset: 206, content: 、, id: KR3j0081_CHANT_001-bkkpn50}
   - {type: variant, offset: 207, length: 1, content: 氣, WYG: 天不言四時行焉百物生焉三皇垂拱無為設言而民不違道德𤣥泊}
   - {type: variant, offset: 209, length: 2, content: 寒煖, WYG: 似皇天故稱曰皇皇者中也光也𢎞也含𢎞履中開隂布剛上含皇極其施光明指天畫}
-  - {type: substitution, offset: 210, original: 煖, replacement: 暖, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1352}}
   - {type: punctuation, offset: 211, content: ，, id: KR3j0081_CHANT_001-bkkpn51}
   - {type: 'tls:seg', offset: 211, content: '', id: KR3j0081_CHANT_001-2a.16}
   - {type: variant, offset: 212, length: 1, content: 形, WYG: 神化潛通煌煌盛美不可勝量禮號諡記説伏羲祝融神農含文嘉記虙戯燧人神農伏者别也變也戯者獻也法也伏羲始别八卦以變化天下天下法則咸伏貢獻故曰伏羲也燧人始鑚木取火炮生為熟令人無復腹疾}
@@ -268,7 +264,6 @@ markers:
   - {type: 'tls:seg', offset: 337, content: '', id: KR3j0081_CHANT_001-3a.18}
   - {type: punctuation, offset: 341, content: ，, id: KR3j0081_CHANT_001-bkkpn94}
   - {type: 'tls:seg', offset: 341, content: '', id: KR3j0081_CHANT_001-3a.19}
-  - {type: substitution, offset: 341, original: 辯, replacement: 辨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4109}}
   - {type: punctuation, offset: 345, content: ，, id: KR3j0081_CHANT_001-bkkpn95}
   - {type: 'tls:seg', offset: 345, content: '', id: KR3j0081_CHANT_001-3a.20}
   - {type: punctuation, offset: 349, content: 。, id: KR3j0081_CHANT_001-bkkpn96}
@@ -285,7 +280,6 @@ markers:
   - {type: 'tls:seg', offset: 375, content: '', id: KR3j0081_CHANT_001-4a.5}
   - {type: punctuation, offset: 379, content: ，, id: KR3j0081_CHANT_001-bkkpn101}
   - {type: 'tls:seg', offset: 379, content: '', id: KR3j0081_CHANT_001-4a.6}
-  - {type: substitution, offset: 381, original: 秘, replacement: 祕, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4452}}
   - {type: punctuation, offset: 383, content: 。, id: KR3j0081_CHANT_001-bkkpn102}
   - {type: 'tls:seg', offset: 383, content: '', id: KR3j0081_CHANT_001-4a.7}
   - {type: variant, offset: 384, length: 1, content: 嬴, WYG: 殷之衰也大彭}
@@ -331,8 +325,6 @@ markers:
   - {type: 'tls:seg', offset: 460, content: '', id: KR3j0081_CHANT_001-4a.21}
   - {type: punctuation, offset: 472, content: 。, id: KR3j0081_CHANT_001-bkkpn120}
   - {type: 'tls:seg', offset: 472, content: '', id: KR3j0081_CHANT_001-4a.22}
-  - {type: substitution, offset: 472, original: 予, replacement: 豫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4465}}
-  - {type: substitution, offset: 475, original: 闇, replacement: 暗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1354}}
   - {type: punctuation, offset: 476, content: ，, id: KR3j0081_CHANT_001-bkkpn121}
   - {type: 'tls:seg', offset: 476, content: '', id: KR3j0081_CHANT_001-4a.23}
   - {type: punctuation, offset: 480, content: ，, id: KR3j0081_CHANT_001-bkkpn122}
@@ -341,7 +333,6 @@ markers:
   - {type: 'tls:seg', offset: 488, content: '', id: KR3j0081_CHANT_001-4a.25}
   - {type: punctuation, offset: 494, content: ，, id: KR3j0081_CHANT_001-bkkpn124}
   - {type: 'tls:seg', offset: 494, content: '', id: KR3j0081_CHANT_001-4a.26}
-  - {type: substitution, offset: 497, original: 啟, replacement: 啓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0402}}
   - {type: punctuation, offset: 500, content: 。, id: KR3j0081_CHANT_001-bkkpn125}
   - {type: xml-element, offset: 500, content: '', id: KR3j0081_CHANT_001-bkkxmlele8}
   - {type: xml-element, offset: 500, content: '', id: KR3j0081_CHANT_001-bkkxmlele9}
@@ -425,4 +416,4 @@ markers:
   - {type: page-break, offset: 603, content: '', id: KR3j0081_SBCK_001-14b}
   body: []
   back: []
-hash: sha256:39f90ca1b6830880fff9f139c1e39f96de45c1019aa69a6f1659b6243d9fbe87
+hash: sha256:fcecc6f648389d8f16fa0c0b7df87a67c425bf23e5d55d2756368eb1a99c6452
