@@ -18,7 +18,7 @@ metadata:
     short: CHANT
 assets:
   parts:
-  - {seq: 1, filename: KR3j0081_001-CHANT.yaml, hash: 'sha256:66253043e2afa9ce83c999d3c25c5a7ef66d740e28e21b18f0999684ae6dcd0c'}
+  - {seq: 1, filename: KR3j0081_001-CHANT.yaml, hash: 'sha256:3c5222e41daf3f902c15acdae778c3d91b2b06784b25778fc64e1f11ed3eb1ef'}
   - {seq: 2, filename: KR3j0081_002-CHANT.yaml, hash: 'sha256:c458f204c43b01b5fb65d266e973d0687e78c3cf1d0fc21369df2c240b21561a'}
   - {seq: 3, filename: KR3j0081_003-CHANT.yaml, hash: 'sha256:14db1a594716836387548d9fb7f5979e5c4933c01d20ce4b9fc9602caa47667f'}
   - {seq: 4, filename: KR3j0081_004-CHANT.yaml, hash: 'sha256:d433c5ed715b0aa1f0b86c951b76c437bd19247633b71e7fa48a6c46079c9f2b'}
@@ -31,7 +31,7 @@ assets:
   - {seq: 11, filename: KR3j0081_011-CHANT.yaml, hash: 'sha256:e35566a4e4ad2584a5e253dc3d8abaca37f115bad0b1cc35127d65d7b248a1ae'}
   - {seq: 12, filename: KR3j0081_012-CHANT.yaml, hash: 'sha256:7e98cfb1921b91372d085ec447dc083b12e62e031afc4e61a0493c546191aaa7'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3j0081_001-CHANT.markers.yaml, hash: 'sha256:2b5898bdf00f6aad159e4d114daa36ffb608dc36932a5991cdb888df819f3c19'}
+  - {seq: 1, role: markers, filename: assets/KR3j0081_001-CHANT.markers.yaml, hash: 'sha256:04b6e7e073c03748604beafd669b074b20d72c337e9c8e3d3cfbd1ef969e205d'}
   - {seq: 2, role: markers, filename: assets/KR3j0081_002-CHANT.markers.yaml, hash: 'sha256:49b57c582d801096aafc6a9294abbac7462b69065ab0b76330eec2ff1ef4948e'}
   - {seq: 3, role: markers, filename: assets/KR3j0081_003-CHANT.markers.yaml, hash: 'sha256:ede327a88067b0465d02ff9980761283c43ebf686312eba9a5432bb0a52e39df'}
   - {seq: 4, role: markers, filename: assets/KR3j0081_004-CHANT.markers.yaml, hash: 'sha256:630fdd47d0009955acd873e510963d94fcd385cbf7e1d99fb5dda15ee5f13e04'}
@@ -48,7 +48,7 @@ table_of_contents:
     seq: 1
     marker_id: KR3j0081_CHANT_001-1a.1-h
     span:
-    - front
+    - body
     - 0
     - 603
   label: 風俗通義序
@@ -164,4 +164,4 @@ table_of_contents:
   label: 風俗通義佚文
   type: section
   level: 1
-hash: sha256:bd29be941758e355a962c46e42276b731a917e40a1e241bf278d18de759f7b4d
+hash: sha256:715919a32d9d303aa8459f934bdbb58ec5f2e7c5d7384c79880cbb58afaf6722
